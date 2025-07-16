@@ -1,0 +1,52 @@
+[
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 74 anos, sexo Feminino. Diagnóstico: Linfoma Difuso de Grandes Células B (CD20+). Metástases: Cérebro. Comorbidades: Osteoporose. Alergias: Iodo. Sintomas: Neutropenia febril grau 4.",
+        "output": "Tratamento recomendado: Eribulina + gabapentina 300mg 8/8h + ácido zoledrônico 4mg IV mensal. Protocolos possíveis: Carboplatina + Paclitaxel."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 45 anos, sexo Masculino. Diagnóstico: Leucemia Mieloide Aguda (FLT3-ITD+). Metástases: Osso. Comorbidades: Obesidade grau II. Alergias: Nenhuma. Sintomas: Disúria.",
+        "output": "Tratamento recomendado: Indicar quimioterapia com cisplatina + etoposídeo e radioterapia craniana profilática. Protocolos possíveis: Carboplatina + Paclitaxel."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 68 anos, sexo Masculino. Diagnóstico: Carcinoma Urotelial de Bexiga (p53+). Metástases: Osso. Comorbidades: Insuficiência Cardíaca. Alergias: Penicilina. Sintomas: Neutropenia febril grau 4.",
+        "output": "Tratamento recomendado: Indicar quimioterapia com cisplatina + etoposídeo e radioterapia craniana profilática. Protocolos possíveis: AC-T."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 58 anos, sexo Feminino. Diagnóstico: Câncer de Mama (HR+ HER2-). Metástases: Lesões em pulmão. Comorbidades: Insuficiência Cardíaca. Alergias: Iodo. Sintomas: Astenia grau 2.",
+        "output": "Tratamento recomendado: Considerar GDP + Filgrastim 300μg/dia. Protocolos possíveis: FOLFOX."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 58 anos, sexo Masculino. Diagnóstico: Leucemia Mieloide Aguda (FLT3-ITD+). Metástases: Peritônio. Comorbidades: Obesidade grau II. Alergias: Iodo. Sintomas: Cefaleia grau 2, Tosse persistente.",
+        "output": "Tratamento recomendado: Reduzir dose de FOLFIRINOX + Loperamida 4mg após cada evacuação. Protocolos possíveis: FOLFOX."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 60 anos, sexo Feminino. Diagnóstico: Leucemia Mieloide Aguda (FLT3-ITD+). Metástases: Peritônio. Comorbidades: HAS. Alergias: Carboplatina. Sintomas: Icterícia, Dor abdominal grau 2.",
+        "output": "Tratamento recomendado: Iniciar Pembrolizumabe 200mg IV a cada 3 semanas. Protocolos possíveis: AC-T."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 68 anos, sexo Masculino. Diagnóstico: Câncer de Rim (Células Claras). Metástases: Fígado, Pulmão. Comorbidades: Insuficiência Cardíaca. Alergias: Nenhuma. Sintomas: Dor lombar grau 4.",
+        "output": "Tratamento recomendado: Considerar GDP + Filgrastim 300μg/dia. Protocolos possíveis: AC-T."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 52 anos, sexo Masculino. Diagnóstico: Adenocarcinoma de Pulmão (EGFR Exon 19del). Metástases: Pulmão. Comorbidades: Osteoporose. Alergias: Penicilina. Sintomas: Dor lombar grau 4.",
+        "output": "Tratamento recomendado: Eribulina + gabapentina 300mg 8/8h + ácido zoledrônico 4mg IV mensal. Protocolos possíveis: FOLFOX."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 52 anos, sexo Masculino. Diagnóstico: Câncer de Rim (Células Claras). Metástases: Lesões líticas em crânio. Comorbidades: Obesidade grau II. Alergias: Sulfonamidas. Sintomas: Icterícia, Dor abdominal grau 2.",
+        "output": "Tratamento recomendado: Reduzir dose de FOLFIRINOX + Loperamida 4mg após cada evacuação. Protocolos possíveis: FOLFOX."
+    },
+    {
+        "instruction": "Você é um especialista em oncologia, utilizando IA para recomendar tratamentos médicos com base em dados clínicos.",
+        "input": "Paciente de 74 anos, sexo Masculino. Diagnóstico: Câncer de Endométrio (MSI-H). Metástases: Lesões líticas em crânio. Comorbidades: Osteoporose. Alergias: Penicilina. Sintomas: Dor óssea grau 2.",
+        "output": "Tratamento recomendado: Iniciar FOLFIRI + Filgrastim 300μg SC/dia. Protocolos possíveis: AC-T."
+    }
+]
